@@ -1,1 +1,3 @@
-# bigdataproject
+# Automated Detection of Diabetic Retinopathy Using Deep Learning![image](https://github.com/user-attachments/assets/b592fc4b-a0ce-42bb-85c5-d73d5ea5669f)
+Diabetic retinopathy (DR), also known as diabetic eye disease, is a medical condition in which damage occurs to the retina due to diabetes mellitus. It is a leading cause of blindness. Diabetic retinopathy affects up to 80 percent of those who have had diabetes for 20 years or more. Diabetic retinopathy often has no early warning signs. Retinal (fundus) photography with manual interpretation is a widely accepted screening tool for diabetic retinopathy, with performance that can exceed that of in-person dilated eye examinations.
+![image](https://github.com/user-attachments/assets/6a127226-5470-4354-abd0-65311965bbd2)
