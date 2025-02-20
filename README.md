@@ -18,3 +18,10 @@ A clinician has rated each image for the severity of diabetic retinopathy on a s
     4 - Proliferative DR
     
 Source: https://www.kaggle.com/c/aptos2019-blindness-detection/data
+
+Data Source Considerations:
+
+1. There could be noise in both the images and labels. 
+2. Images may contain artifacts, be out of focus, underexposed, or overexposed. 
+3. The images were gathered from multiple clinics using a variety of cameras over an extended period of time, which will introduce further variation.
+
