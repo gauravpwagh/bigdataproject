@@ -25,3 +25,5 @@ Data Source Considerations:
 2. Images may contain artifacts, be out of focus, underexposed, or overexposed. 
 3. The images were gathered from multiple clinics using a variety of cameras over an extended period of time, which will introduce further variation.
 
+![download](https://github.com/user-attachments/assets/5108dc5f-35f5-4240-9fb4-ee8740ea446c)
+
