@@ -3,9 +3,15 @@ Diabetic retinopathy (DR), also known as diabetic eye disease, is a medical cond
 An automated tool for grading severity of diabetic retinopathy would be very useful for accelerating detection and treatment.
 Data contains a large set of retina images taken using fundus photography under a variety of imaging conditions.
 A clinician has rated each image for the severity of diabetic retinopathy on a scale of 0 to 4 as shown:
+
     0 - No DR
+    
     1 - Mild
+    
     2 - Moderate
+    
     3 - Severe
+    
     4 - Proliferative DR
+    
 Source: https://www.kaggle.com/c/aptos2019-blindness-detection/data
